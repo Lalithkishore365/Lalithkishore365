@@ -37,7 +37,7 @@
 
 📊 **GitHub Activity**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laithkishore365&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Laithkishore365&theme=tokyonight" alt="streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Lalithkishore365&show_icons=true&theme=tokyonight" alt="stats"/>
   <br>
