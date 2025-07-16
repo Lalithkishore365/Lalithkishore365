@@ -1,34 +1,59 @@
-<h1 align="center">Hi 👋, I'm LalithKishore</h1>
-<h3 align="center">ECE + Data Science Student | Web Developer | AI Hackathon Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Lalith</h1>
+<h3 align="center">ECE + Data Science Student | Web Developer | Hackathon Enthusiast | Always Learning 💡</h3>
 
-- 🎓 Pursuing **BS in Data Science @ IIT Madras** and **ECE @ VIT**
-- 🔭 Currently exploring **Machine Learning, React, and API integration**
-- 💡 Participated in the **Intel Gen-AI Hackathon 2024**
-- 🛠️ Web Dev member @ **Open Source Programming Club** and **Code-Y-Gen**
-- 🏆 Won **1st Prize** at **Websphere Hackathon** by Code-Y-Gen
-- 💬 Ask me about **Flask,APIs, and UI/UX best practices**
-- 📫 Reach me: **lalithkishore2109@email.com**
-- ⚡ Fun fact: *I love turning raw ideas into real, usable web apps!*
-
----
-
-### 💻 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,sqlite,mysql,arduino,verilog,rstudio,vscode,github" />
-</p>
-
-
-### 🔗 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/lalithkishore37" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+Tech+from+Scratch+🛠️;Web+%7C+AI+%7C+VLSI+Enthusiast;Learning+something+new+every+day+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 A Few Cool Things I’ve Built
-- [🔐 MorseCode Encryptor – RTC-based serial encryption system](https://github.com/Lalithkishore365/SecretSignal)
-- [📈 SowSure – Market price tracker with charts (Frontend) ](https://github.com/Lalithkishore365/sowsure)
+🎓 **Education**
+- B.Tech. Electronics and Communication @ **VIT Chennai**
+- BS in Data Science & Applications @ **IIT Madras (Online)**
 
+🔭 **Current Focus**
+- Machine Learning, React + Flask Integration, VLSI + AI hardware mapping
 
-> *“Driven by curiosity. Focused on impact.” – Lalith*
+💻 **Hackathons & Collabs**
+- Participated in **Intel Gen-AI Hackathon 2024**
+- 🥇 Winner – **WebSphere Hackathon** by Code-Y-Gen
+- Active member of **Open Source Programming Club** & **Code-Y-Gen**
+
+---
+
+🚀 **Featured Projects**
+- 🌾 **SowSure** – Market-price tracker & decision support for farmers (Flask + Recharts)
+- 🔐 **Morse Code Encryptor** – Real-time encryption & LED transmission using RTC + UART
+- 🛰️ **Supernova Cosmology Project** – AI meets astrophysics in research under India Space Academy
+
+---
+
+🛠️ **Tech Stack**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,react,html,css,tailwind,sqlite,mysql,verilog,arduino,matlab,github,vscode,rstudio" />
+</p>
+
+---
+
+📊 **GitHub Activity**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="top langs"/>
+</p>
+
+---
+
+📈 **Profile Visitors**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+💬 **Let’s Collaborate**
+Got a cool idea or hackathon in mind? Let’s connect and build something awesome. 🚀  
+📫 Reach me at: `your@email.com`
+
