@@ -14,3 +14,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Lalith</h1>
+<h3 align="center">ECE + Data Science Student | Web Developer | Project Enthusiast</h3>
+
+- 🔭 I’m currently working on **[SketchSim](https://github.com/your-username/sketchsim)** and **Vehicle Parking App**
+- 🌱 I’m currently learning **Machine Learning, React, and Flask APIs**
+- 🏆 I won **1st Prize** at the Code-Y-Gen Websphere Hackathon
+- 👯 I’m collaborating on **open-source and hackathon projects**
+- 💬 Ask me about **Flask, Tailwind CSS, and circuit simulation**
+- 📫 How to reach me: **lalith@email.com**
+- ⚡ Fun fact: *I love building practical tools from scratch!*
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,react,tailwind,bootstrap,sqlite,mysql,arduino,verilog,rstudio,vscode,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your@email.com"><img align="center" src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+- [🔧 SketchSim](https://github.com/your-username/sketchsim) – Hand-drawn circuits → real-time simulation  
+- [🚗 Click2Park](https://github.com/your-username/vehicle-parking-app) – 4-wheeler parking web app with spot tracking  
+- [🛰️ Supernova Analysis](https://github.com/your-username/supernova-report) – Cosmology report and insights
+
+---
+
+> *“I believe real learning comes from building and solving.” – Lalith*
+
