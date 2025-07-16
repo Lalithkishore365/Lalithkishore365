@@ -2,8 +2,9 @@
 <h3 align="center">ECE + Data Science Student | Web Developer | Hackathon Enthusiast | Always Learning 💡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+Tech+from+Scratch+🛠️;Web+%7C+AI+%7C+VLSI+Enthusiast;Learning+something+new+every+day+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=440&lines=Tech+Explorer+%7C+Web+Dev+%7C+ML+Builder;ECE+%2B+Data+Science+Student;Building+and+Breaking+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -35,13 +36,22 @@
 
 ---
 
-📊 **GitHub Activity**
+
+📈 **GitHub Stats**
+
+<!-- ✅ GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Laithkishore365&theme=tokyonight" alt="streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lalithkishore365&show_icons=true&theme=tokyonight" alt="stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithkishore365&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://streak-stats.demolab.com/?user=Lalithkishore365&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+<!-- ✅ GitHub Overview Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lalithkishore365&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- ✅ GitHub Language Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithkishore365&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
