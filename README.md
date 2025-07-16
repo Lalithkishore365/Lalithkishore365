@@ -75,7 +75,7 @@ Astrophysics meets Data
 
 ---
 ### 🌇 My GitHub Skyline
-[![GitHub Skyline](https://github.com/your-username/Lalithkishore365/raw/main/skyline.gif)](https://skyline.github.com/your-username/2024)
+[![GitHub Skyline](https://github.com/Lalithkishore365/Lalithkishore365/raw/main/skyline.gif)](https://skyline.github.com/your-username/2024)
 
 ### 🧭 Philosophy
 > *Build with purpose. Learn with intent.*
