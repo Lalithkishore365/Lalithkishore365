@@ -30,18 +30,18 @@
 
 🛠️ **Tech Stack**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,react,html,css,tailwind,sqlite,mysql,verilog,arduino,matlab,github,vscode,rstudio" />
+  <img src="https://skillicons.dev/icons?i=python,flask,react,html,css,sqlite,mysql,verilog,arduino,matlab,github,vscode,rstudio" />
 </p>
 
 ---
 
 📊 **GitHub Activity**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laithkishore365&theme=tokyonight" alt="streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lalithkishore365&show_icons=true&theme=tokyonight" alt="stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithkishore365&layout=compact&theme=tokyonight" alt="top langs"/>
 </p>
 
 ---
