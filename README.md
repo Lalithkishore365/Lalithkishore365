@@ -27,7 +27,7 @@
 ---
 
 ### 🚀 A Few Cool Things I’ve Built
-- [🔐 MorseCode Encryptor – RTC-based serial encryption system](https://github.com/Lalithkishore365/morsecode-encryptor)
+- [🔐 MorseCode Encryptor – RTC-based serial encryption system](https://github.com/Lalithkishore365/SecretSignal)
 - [📈 SowSure – Market price tracker with charts (Frontend) ](https://github.com/Lalithkishore365/sowsure)
 
 
