@@ -17,9 +17,6 @@
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,sqlite,mysql,arduino,verilog,rstudio,vscode,github" />
 </p>
 
----
-
----
 
 ### 🔗 Connect With Me
 <p align="left">
@@ -30,7 +27,6 @@
 ---
 
 ### 🚀 A Few Cool Things I’ve Built
-- 
 - [🔐 MorseCode Encryptor – RTC-based serial encryption system](https://github.com/Lalithkishore365/morsecode-encryptor)
 - [📈 SowSure – Market price tracker with charts (Frontend) ](https://github.com/Lalithkishore365/sowsure)
 
