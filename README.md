@@ -11,7 +11,10 @@
 - 💬 Loves discussing ideas, breaking systems, and debugging life
 
 ---
+🚀 **Focus Areas**
+- Machine Learning, Flask-React APIs, VLSI logic design
 
+---
 ### 🌟 Featured Work
 
 #### 🌾 **SowSure**
@@ -41,7 +44,7 @@ Astrophysics meets Data
 
 ### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,tailwind,js,react,sqlite,verilog,arduino,github,vscode,matlab,rstudio" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,verilog,arduino,github,vscode,matlab,rstudio" />
 </p>
 
 ---
