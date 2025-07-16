@@ -74,9 +74,8 @@ Astrophysics meets Data
 
 
 ---
-
-### 🌈 Contribution Graph
-![Lalith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalithkishore365&theme=github-compact)
+### 🌇 My GitHub Skyline
+[![GitHub Skyline](https://github.com/your-username/Lalithkishore365/raw/main/skyline.gif)](https://skyline.github.com/your-username/2024)
 
 ### 🧭 Philosophy
 > *Build with purpose. Learn with intent.*
