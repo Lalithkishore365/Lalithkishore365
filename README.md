@@ -35,12 +35,21 @@ Astrophysics meets Data
 ---
 
 ### 🧠 Currently Learning
-- ✨ React + Tailwind for frontend projects  
-- 🔌 API design with Flask-RESTful  
-- 📈 Chart.js visualizations for dashboards  
-- 🧪 Better UI/UX workflows for web apps
+
+- ⚛️ **React + Tailwind CSS** – Building responsive, modern frontends  
+- 🔐 **Microcontroller Communication** – UART serial data handling with embedded systems  
+- 🧠 **Project Structuring** – Designing scalable, real-world apps from scratch  
 
 ---
+
+### 🧱 Roadmap Ahead *(Planned Learning)*
+
+- 🧩 **STM32 & Embedded C** – Register-level programming on ARM Cortex boards  
+- 🌐 **IoT Protocols** – Learning MQTT, HTTP, and embedded device communication  
+- 📡 **Digital Signal Processing** – MATLAB-based filtering, sampling & waveform experiments  
+- 💡 **Advanced Verilog & VLSI** – Logic optimization, clocking, and hardware timing analysis  
+- 🧪 **EDA Tools & Synthesis** – Hands-on with timing closure, simulation, and RTL design flow
+
 
 ### 🛠️ Tools & Technologies
 <p align="center">
@@ -66,7 +75,7 @@ Astrophysics meets Data
 ---
 
 ### 🧭 Philosophy
-> *Build with purpose. Learn with intent. Make it usable. Make it yours.*
+> *Build with purpose. Learn with intent.*
 
 ---
 
