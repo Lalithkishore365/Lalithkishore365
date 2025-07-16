@@ -49,11 +49,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 Featured Projects
-- [🔧 SketchSim](https://github.com/your-username/sketchsim) – Hand-drawn circuits → real-time simulation  
-- [🚗 Click2Park](https://github.com/your-username/vehicle-parking-app) – 4-wheeler parking web app with spot tracking  
-- [🛰️ Supernova Analysis](https://github.com/your-username/supernova-report) – Cosmology report and insights
-
 ---
 
 > *“I believe real learning comes from building and solving.” – Lalith*
