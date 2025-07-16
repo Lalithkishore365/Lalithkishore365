@@ -74,9 +74,6 @@ Astrophysics meets Data
 
 
 ---
-[![Lalith's GitHub Level](https://github-profile-level-card.vercel.app/api?username=Lalithkishore365)](https://github.com/Lalithkishore365)
-
----
 
 ### 🧭 Philosophy
 > *Build with purpose. Learn with intent.*
