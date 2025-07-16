@@ -72,7 +72,11 @@ Astrophysics meets Data
 - 🥇 **WebSphere Hackathon** Winner @ Code-Y-Gen  
 - 🌐 Member @ **Open Source Programming Club** & **Code-Y-Gen** & **Yuva Club**
 
+
 ---
+
+### 🌈 Contribution Graph
+![Lalith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lalithkishore365&theme=github-compact)
 
 ### 🧭 Philosophy
 > *Build with purpose. Learn with intent.*
@@ -82,5 +86,5 @@ Astrophysics meets Data
 ### 🤝 Connect With Me
 Let’s build cool things, fix hard bugs, or just talk circuits & servers.  
 📫 `lalithkishore2109@email.com`  
-🔗 [LinkedIn](https://linkedin.com/in/lalithkishore37)
+🔗 <a href="https://linkedin.com/in/lalithkishore37" target="blank"><img align="center" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
