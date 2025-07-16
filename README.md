@@ -1,69 +1,74 @@
-<h1 align="center">Hey 👋, I'm Lalith</h1>
-<h3 align="center">ECE + Data Science Student | Web Developer | Hackathon Enthusiast | Always Learning 💡</h3>
+<h1 align="center">Lalith | ECE × Data Science Student</h1>
+<p align="center">I build real-world tech that connects circuits, code, and people 🚀</p>
 
+---
+
+### 🧭 About Me
+- 🎓 B.Tech. in **Electronics and Communication Engineering** @ VIT Chennai  
+- 📊 BS in **Data Science and Applications** @ IIT Madras (Online)  
+- 🔎 Passionate about **merging hardware, data, and intelligence**  
+- 🛠️ Actively building full-stack apps with real-world use cases  
+- 💬 Loves discussing ideas, breaking systems, and debugging life
+
+---
+
+### 🌟 Featured Work
+
+#### 🌾 **SowSure**
+Market-price tracker for fruits and vegetables  
+→ Dynamic filtering, Recharts, rate change indicators, and a user-friendly UI  
+*Built with Flask, Chart.js, HTML/CSS*
+
+#### 🔐 **Morse Code Encryptor**
+Real-time RTC-based XOR encryption system with LED/Morse communication  
+→ Keyboard input → Microcontroller encryption → Serial output & LED blink  
+*Built with UART, Keil C, RTC logic, and Python*
+
+#### 🛰️ **Supernova Cosmology Report**
+Astrophysics meets Data  
+→ Redshift, supernova analysis, and visual summaries from India Space Academy  
+*Focused on observation → reasoning → insight*
+
+---
+
+### 🧠 Currently Learning
+- ✨ React + Tailwind for frontend projects  
+- 🔌 API design with Flask-RESTful  
+- 📈 Chart.js visualizations for dashboards  
+- 🧪 Better UI/UX workflows for web apps
+
+---
+
+### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=440&lines=Tech+Explorer+%7C+Web+Dev+%7C+ML+Builder;ECE+%2B+Data+Science+Student;Building+and+Breaking+Things+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-
----
-
-🎓 **Education**
-- B.Tech. Electronics and Communication @ **VIT Chennai**
-- BS in Data Science & Applications @ **IIT Madras (Online)**
-
-🔭 **Current Focus**
-- Machine Learning, React + Flask Integration, VLSI + AI hardware mapping
-
-💻 **Hackathons & Collabs**
-- Participated in **Intel Gen-AI Hackathon 2024**
-- 🥇 Winner – **WebSphere Hackathon** by Code-Y-Gen
-- Active member of **Open Source Programming Club** & **Code-Y-Gen**
-
----
-
-🚀 **Featured Projects**
-- 🌾 **SowSure** – Market-price tracker & decision support for farmers (Flask + Recharts)
-- 🔐 **Morse Code Encryptor** – Real-time encryption & LED transmission using RTC + UART
-- 🛰️ **Supernova Cosmology Project** – AI meets astrophysics in research under India Space Academy
-
----
-
-🛠️ **Tech Stack**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,react,html,css,sqlite,mysql,verilog,arduino,matlab,github,vscode,rstudio" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,tailwind,js,react,sqlite,verilog,arduino,github,vscode,matlab,rstudio" />
 </p>
 
 ---
 
-
-📈 **GitHub Stats**
-
-<!-- ✅ GitHub Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lalithkishore365&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-<!-- ✅ GitHub Overview Stats -->
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lalithkishore365&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- ✅ GitHub Language Stats -->
-<p align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithkishore365&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-📈 **Profile Visitors**
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### 🏆 Achievements & Communities
+- 🧠 **Intel Gen-AI Hackathon** – Participant  
+- 🥇 **WebSphere Hackathon** Winner @ Code-Y-Gen  
+- 🌐 Member @ **Open Source Programming Club** & **Code-Y-Gen** & **Yuva Club**
 
 ---
 
-💬 **Let’s Collaborate**
-Got a cool idea or hackathon in mind? Let’s connect and build something awesome. 🚀  
-📫 Reach me at: `your@email.com`
+### 🧭 Philosophy
+> *Build with purpose. Learn with intent. Make it usable. Make it yours.*
+
+---
+
+### 🤝 Connect With Me
+Let’s build cool things, fix hard bugs, or just talk circuits & servers.  
+📫 `lalithkishore2109@email.com`  
+🔗 [LinkedIn](https://linkedin.com/in/lalithkishore37)
 
