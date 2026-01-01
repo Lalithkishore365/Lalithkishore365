@@ -42,8 +42,8 @@ Real-time Indian Sign Language interpretation system
 → Gesture-to-text and text-to-speech conversion  
 → Context-aware translation using LLMs  
 *Focus: Computer Vision × Accessibility × AI Systems*
----
 
+---
 ### 🚧 Currently Building
 - 🤖 **AgroBot – Smart Agricultural Assistant**  
   Sensor-based agricultural monitoring system  
@@ -73,6 +73,13 @@ Real-time Indian Sign Language interpretation system
 - 💡 **Advanced Verilog & VLSI** – Logic optimization, clocking, timing analysis  
 - 🧪 **EDA Tools & RTL Flow** – Simulation, synthesis, and timing closure  
 
+---
+
+### 📈 Code Focus Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithkishore365&layout=pie&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ### 🛠️ Tools & Technologies
