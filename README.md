@@ -22,28 +22,26 @@
 
 ### 🌟 Featured Work
 
-#### 🌾 **SowSure**
-Market-price tracker for fruits and vegetables  
-→ Dynamic filtering, visual analytics, and rate-change indicators  
-→ Clean UI with practical decision insights  
-*Built with Flask, Chart.js, HTML/CSS*
+### 🌟 Featured Work
+
+#### 🤖 **AgroBot – IoT-enabled Pesticide Smart Sprayer**
+*ML, Raspberry Pi, IoT, Embedded Systems*  
+Pseudo-automatic intelligent agricultural bot for precision pesticide application  
+→ ML-based plant disease detection with targeted spraying  
+→ Servo-controlled nozzles for chemical optimization  
+→ Camera-based monitoring with mobile/web remote control  
+→ Path mapping to reduce pesticide wastage  
+*Focus: Precision Agriculture × Embedded Intelligence*
 
 ---
 
-#### 🔐 **Morse Code Encryptor**
-Real-time RTC-based XOR encryption system with Morse/LED communication  
-→ Keyboard input → microcontroller encryption → serial output & LED blink  
-→ Multi-mode operation (encrypt, decrypt, display, LED Morse)  
-*Built with UART, Keil C, RTC logic, and Python*
-
----
-
-#### 🛰️ **Supernova Cosmology Report**
-Astrophysics meets data science  
-→ Redshift & supernova data analysis  
-→ Visual summaries and scientific reasoning  
-*Focused on observation → reasoning → insight*
-
+#### 🤟 **ISL to Text/Speech Converter**
+*Python, OpenCV, MediaPipe, LLMs*  
+Real-time Indian Sign Language interpretation system  
+→ Hand landmark detection using MediaPipe  
+→ Gesture-to-text and text-to-speech conversion  
+→ Context-aware translation using LLMs  
+*Focus: Computer Vision × Accessibility × AI Systems*
 ---
 
 ### 🚧 Currently Building
