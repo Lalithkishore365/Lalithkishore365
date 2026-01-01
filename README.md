@@ -22,15 +22,6 @@
 
 ### 🌟 Featured Work
 
-#### 🤖 **AgroBot – Smart Agricultural Assistant**
-Autonomous agriculture monitoring & decision-support system  
-→ Real-time sensor-based data collection (soil & environment)  
-→ Data-driven insights for crop health and farming actions  
-→ Designed with real-world deployment and scalability in mind  
-*Built using embedded systems, sensors, Python, and data analysis*
-
----
-
 #### 🌾 **SowSure**
 Market-price tracker for fruits and vegetables  
 → Dynamic filtering, visual analytics, and rate-change indicators  
@@ -56,8 +47,11 @@ Astrophysics meets data science
 ---
 
 ### 🚧 Currently Building
-- 🌱 **AgroBot (Enhancements)**  
-  Improving sensor reliability, data interpretation, and system intelligence  
+- 🤖 **AgroBot – Smart Agricultural Assistant**  
+  Sensor-based agricultural monitoring system  
+  → Environmental & soil data collection  
+  → Data-driven insights for crop health  
+  → Designed with real-world deployment mindset  
 
 - 🧠 **Agentic AI Concepts**  
   Learning how autonomous agents observe, decide, and act in real systems  
@@ -86,15 +80,6 @@ Astrophysics meets data science
 ### 🛠️ Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,verilog,arduino,github,vscode,matlab,rstudio" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lalithkishore365&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithkishore365&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
