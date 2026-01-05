@@ -105,6 +105,6 @@ To design intelligent systems where
 ### 🤝 Connect With Me
 Let’s build meaningful systems, solve hard problems, or talk circuits & servers.
 
-📫 `lalithkishore2109@email.com`  
+📫 `lalithkishore2109@gmail.com`  
 🔗 <a href="https://linkedin.com/in/lalithkishore37" target="blank"><img align="center" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
