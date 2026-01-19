@@ -77,13 +77,6 @@ Double-layer encrypted Morse code communication system
 
 ---
 
-### 📈 Code Focus Distribution
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithkishore365&layout=pie&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🏆 Achievements & Communities
 - 🧠 **Intel Gen-AI Hackathon** – Participant  
 - 🥇 **WebSphere Hackathon** Winner @ Code-Y-Gen  
@@ -106,5 +99,6 @@ To design intelligent systems where
 Let’s build meaningful systems, solve hard problems, or talk circuits & servers.
 
 📫 `lalithkishore2109@gmail.com`  
-🔗 <a href="https://linkedin.com/in/lalithkishore37" target="blank"><img align="center" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+🔗 <a href="https://linkedin.com/in/lalithkishore37" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
