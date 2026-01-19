@@ -76,6 +76,16 @@ Double-layer encrypted Morse code communication system
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lalithkishore365&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lalithkishore365&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lalithkishore365&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
 
 ### 🏆 Achievements & Communities
 - 🧠 **Intel Gen-AI Hackathon** – Participant  
