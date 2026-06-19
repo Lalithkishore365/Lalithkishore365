@@ -1,7 +1,8 @@
+````md
 <h1 align="center">Lalith Kishore</h1>
 
 <p align="center">
-ECE × Data Science Student | AI Research | Embedded Systems | Secure Communication
+ECE Student @ VIT Chennai | IITM BS Data Science Diploma Holder | AI, Embedded Systems & Secure Communication
 </p>
 
 <p align="center">
@@ -10,39 +11,27 @@ Building intelligent systems where hardware senses, data understands, and softwa
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 🎓 B.Tech. Electronics & Communication Engineering @ VIT Chennai
 
-📊 BS in Data Science and Applications @ IIT Madras (Online)
+📊 BS in Data Science and Applications @ IIT Madras  
+✅ Diploma Level Completed
 
-🔬 Passionate about:
+🔬 Interested in designing intelligent systems at the intersection of:
 
 - Artificial Intelligence
 - Computer Vision
 - Embedded Systems
 - Secure Communication
+- Data Analytics
 - Quantum Cryptography
-- VLSI Design
 
-I enjoy building complete systems that combine hardware, software, intelligence, and security into practical solutions.
-
----
-
-## Research Interests
-
-- Machine Learning
-- Computer Vision
-- Edge AI
-- Quantum Key Distribution
-- IoT Security
-- Embedded Communication Systems
-- Digital Design & VLSI
-- Applied Cryptography
+I enjoy building end-to-end solutions that combine hardware, software, data, and intelligence to solve real-world problems.
 
 ---
 
-## Publications & Intellectual Property
+## 📚 Publications & Intellectual Property
 
 ### Research Publications
 
@@ -56,9 +45,34 @@ I enjoy building complete systems that combine hardware, software, intelligence,
 
 ---
 
-## Featured Projects
+## 🔬 Research Interests
 
-### Agrobot – Intelligent Selective Pesticide Spraying System
+- Machine Learning
+- Computer Vision
+- Edge AI
+- Quantum Key Distribution
+- IoT Security
+- Embedded Communication Systems
+- Applied Cryptography
+- Data Analytics
+
+---
+
+## 🎓 Education
+
+### Vellore Institute of Technology (VIT), Chennai
+**Bachelor of Technology (B.Tech.)**  
+Electronics and Communication Engineering
+
+### IIT Madras
+**BS Degree in Data Science and Applications**  
+Diploma Level Completed
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 Agrobot – Intelligent Selective Pesticide Spraying System
 
 **Computer Vision • Raspberry Pi • Embedded Control**
 
@@ -67,26 +81,11 @@ I enjoy building complete systems that combine hardware, software, intelligence,
 - Mobile robotic platform
 - Flask-based monitoring dashboard
 
-Focus:
-Computer Vision × Robotics × Precision Agriculture
+**Focus:** Computer Vision × Robotics × Precision Agriculture
 
 ---
 
-### BB84-Based Secure MQTT Communication System
-
-**Quantum Cryptography • IoT Security**
-
-- Simulated BB84 quantum key exchange
-- Dynamic session key generation
-- Secure MQTT communication layer
-- Key entropy and security analysis
-
-Focus:
-Quantum Communication × Secure IoT
-
----
-
-### Protocol Switching Secure Communication System
+### 🔐 Protocol Switching Secure Communication System
 
 **IoT • Security • Communication Networks**
 
@@ -95,12 +94,11 @@ Quantum Communication × Secure IoT
 - Security-aware transmission
 - Context-driven network optimization
 
-Focus:
-IoT Networking × Cybersecurity
+**Focus:** IoT Networking × Cybersecurity
 
 ---
 
-### Indian Sign Language Translator
+### 🤟 Indian Sign Language Translator
 
 **Python • OpenCV • MediaPipe**
 
@@ -109,26 +107,11 @@ IoT Networking × Cybersecurity
 - Text-to-speech generation
 - Accessibility-focused AI solution
 
-Focus:
-Computer Vision × Human-Centered AI
+**Focus:** Computer Vision × Human-Centered AI
 
 ---
 
-### Vaccine Stance Detection using BERTweet
-
-**NLP • Deep Learning**
-
-- Social media vaccine sentiment analysis
-- Semantic stance classification
-- Transformer-based modeling
-- Explainable predictions
-
-Focus:
-Natural Language Processing
-
----
-
-### Skin Cancer Detection using Deep Learning
+### 🧠 Skin Cancer Detection using Deep Learning
 
 **Medical AI • CNNs**
 
@@ -137,12 +120,11 @@ Natural Language Processing
 - Deep learning architectures
 - Healthcare-focused research
 
-Focus:
-Medical AI × Computer Vision
+**Focus:** Medical AI × Computer Vision
 
 ---
 
-### Secure Morse Code Communication System
+### 🔒 Secure Morse Code Communication System
 
 **Embedded C • Cryptography • Flask**
 
@@ -151,25 +133,11 @@ Medical AI × Computer Vision
 - Morse code transmission
 - UART communication framework
 
-Focus:
-Embedded Security × Cryptography
+**Focus:** Embedded Security × Cryptography
 
 ---
 
-### Audio Encryption & Secure Transmission
-
-**DSP • Cryptography**
-
-- Audio signal encryption
-- Secure data transfer
-- Signal analysis and reconstruction
-
-Focus:
-Signal Processing × Security
-
----
-
-### ESP-NOW Secure Covert Communication
+### 📡 ESP-NOW Secure Covert Communication
 
 **ESP32 • Wireless Systems**
 
@@ -177,12 +145,11 @@ Signal Processing × Security
 - Covert transmission concepts
 - Embedded networking
 
-Focus:
-Embedded Wireless Communication
+**Focus:** Embedded Wireless Communication
 
 ---
 
-### Vehicle Parking Management System
+### 🚗 Vehicle Parking Management System
 
 **Flask • SQLite**
 
@@ -191,14 +158,26 @@ Embedded Wireless Communication
 - Administrative dashboard
 - Database-driven architecture
 
-Focus:
-Backend Engineering
+**Focus:** Backend Engineering
 
 ---
 
-## Technical Skills
+### 📊 Business Analytics Dashboard – Rajesh Tiles
 
-### Programming
+**Python • Data Analytics • Visualization**
+
+- Analyzed business sales and operational datasets
+- Performed data cleaning and preprocessing
+- Built dashboards for business insights and reporting
+- Generated data-driven recommendations for decision-making
+
+**Focus:** Business Intelligence × Data Analytics
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 
 ```text
 Python
@@ -206,9 +185,9 @@ C
 Embedded C
 SQL
 Verilog
-```
+````
 
-### Artificial Intelligence
+### Artificial Intelligence & Data Science
 
 ```text
 Machine Learning
@@ -218,6 +197,9 @@ Natural Language Processing
 TensorFlow
 PyTorch
 OpenCV
+Pandas
+NumPy
+Matplotlib
 ```
 
 ### Embedded Systems
@@ -225,14 +207,15 @@ OpenCV
 ```text
 Arduino
 ESP32
+Raspberry Pi
 UART
 I2C
 SPI
-Raspberry Pi
 Sensor Integration
+Embedded Communication
 ```
 
-### Web & Backend
+### Web & Backend Development
 
 ```text
 Flask
@@ -255,7 +238,7 @@ ESP-NOW
 Secure Communication Protocols
 ```
 
-### VLSI & Hardware
+### VLSI & Hardware Design
 
 ```text
 Verilog
@@ -267,24 +250,7 @@ Timing Analysis
 
 ---
 
-## Currently Building
-
-### Intelligent Selective Pesticide Spraying Robot
-
-- AI-assisted disease detection
-- Precision agriculture automation
-- Real-time decision making
-- Embedded actuation systems
-
-### Advanced Secure IoT Communication Models
-
-- Dynamic protocol adaptation
-- Quantum-inspired security
-- Intelligent communication frameworks
-
----
-
-## Currently Learning
+## 📖 Currently Learning
 
 ```text
 STM32 Programming
@@ -299,31 +265,31 @@ System Architecture
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 🏆 WebSphere Hackathon Winner @ Code-Y-Gen
 
+🥇 Best Project Member Award
+
+💻 CodeChef Project Team Member
+
 🚀 Intel Gen-AI Hackathon Participant
 
-🎯 Smart India Hackathon (SIH) Project Development
-
-🌐 Open Source Programming Club Member
-
-💻 Code-Y-Gen Community Member
+📚 IIT Madras BS Degree – Diploma Level Completed
 
 ---
 
-## Long-Term Vision
+## 🎯 Long-Term Vision
 
-To develop intelligent cyber-physical systems that combine:
+To become a systems engineer and researcher building intelligent cyber-physical systems that integrate:
 
-Hardware Sensing → Secure Communication → Intelligent Decision Making → Autonomous Action
+**Hardware → Communication → Intelligence → Autonomous Decision Making**
 
-while contributing to research in AI, embedded systems, and secure communication technologies.
+with applications in healthcare, agriculture, security, and industrial automation.
 
 ---
 
-## Philosophy
+## 💡 Philosophy
 
 > Build with purpose.
 >
@@ -333,12 +299,16 @@ while contributing to research in AI, embedded systems, and secure communication
 
 ---
 
-## Connect
+## 🤝 Connect With Me
 
-📧 Email: lalithkishore2109@gmail.com
+📧 **Email:**
+[lalithkishore2109@gmail.com](mailto:lalithkishore2109@gmail.com)
 
-💼 LinkedIn:
-www.linkedin.com/in/lalithkishore37
+💼 **LinkedIn:**
+[www.linkedin.com/in/lalithkishore37](http://www.linkedin.com/in/lalithkishore37)
 
-🐙 GitHub:
+🐙 **GitHub:**
 github.com/Lalithkishore365
+
+```
+```
