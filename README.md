@@ -1,114 +1,344 @@
-<h1 align="center">Lalith | ECE × Data Science Student</h1>
-<p align="center">I build real-world systems that connect hardware, data, and intelligence 🚀</p>
+<h1 align="center">Lalith Kishore</h1>
 
----
-
-### 🧭 About Me
-- 🎓 B.Tech. in **Electronics and Communication Engineering** @ VIT Chennai  
-- 📊 BS in **Data Science and Applications** @ IIT Madras (Online)  
-- 🔎 Passionate about **embedded systems, data-driven intelligence, and system-level design**  
-- 🛠️ Enjoys building end-to-end systems: sensing → processing → decision → action  
-- 💬 Curious by nature — loves breaking systems and understanding how things really work  
-
----
-
-### 🚀 Focus Areas
-- Machine Learning & Computer Vision  
-- Embedded Systems & Microcontroller Communication  
-- Backend Systems (Flask APIs)  
-- VLSI Logic Design & Digital Hardware  
-
----
-
-### 🌟 Featured Work
-
-#### 🤟 **ISL to Text/Speech Converter**
-*Python, OpenCV, MediaPipe, LLMs*  
-Real-time Indian Sign Language interpretation system  
-→ Hand landmark detection using MediaPipe  
-→ Gesture-to-text and text-to-speech conversion  
-→ Context-aware translation using LLMs  
-*Focus: Computer Vision × Accessibility × Intelligent Systems*
-
----
-
-#### 🔐 **Morse Code Encryption & Communication System**
-*Embedded C, Flask, UART, RTC*  
-Double-layer encrypted Morse code communication system  
-→ RTC-based dynamic XOR encryption with microcontroller-side key management  
-→ Web-to-hardware communication via USB UART  
-→ Morse code transmission using LED signaling  
-*Focus: Embedded Security × Hardware–Software Co-design*
-
----
-
-### 🚧 Currently Working On
-- 🧠 **Skin Cancer Detection using Deep Learning (Research – Ongoing)**  
-  Exploring CNN-based architectures for accurate skin lesion classification using dermoscopic datasets  
-
-- 🧪 **VLSI Design & Verification Practice**  
-  Digital logic implementation, power & delay analysis using Cadence tools  
-
-- 🌐 **System-Oriented Backend Projects**  
-  API-driven architectures with clean separation of logic and data  
-
----
-
-### 🧠 Currently Learning
-- ⚛️ **React + Tailwind CSS** – Modern, responsive frontend development  
-- 🔐 **Embedded Communication** – UART protocols and MCU-to-system integration  
-- 🧩 **Project Structuring** – Designing scalable, real-world systems  
-
----
-
-### 🧱 Roadmap Ahead *(Planned Learning)*
-- 🧩 **STM32 & Embedded C** – Register-level programming on ARM Cortex MCUs  
-- 🌐 **IoT Protocols** – MQTT, HTTP, and device communication models  
-- 📡 **Digital Signal Processing** – MATLAB-based filtering & signal analysis  
-- 💡 **Advanced Verilog & VLSI** – Logic optimization, clocking, timing analysis  
-- 🧪 **EDA Tools & RTL Flow** – Simulation, synthesis, and timing closure  
-
----
-
-### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,verilog,arduino,github,vscode,matlab,rstudio" />
-</p>
-
----
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lalithkishore365&theme=tokyonight" />
+ECE × Data Science Student | AI Research | Embedded Systems | Secure Communication
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lalithkishore365&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lalithkishore365&theme=tokyonight&utcOffset=5.5" />
+Building intelligent systems where hardware senses, data understands, and software decides.
 </p>
 
 ---
 
-### 🏆 Achievements & Communities
-- 🧠 **Intel Gen-AI Hackathon** – Participant  
-- 🥇 **WebSphere Hackathon** Winner @ Code-Y-Gen  
-- 🌐 Member @ **Open Source Programming Club**, **Code-Y-Gen**, **Yuva Club**
+## About Me
+
+🎓 B.Tech. Electronics & Communication Engineering @ VIT Chennai
+
+📊 BS in Data Science and Applications @ IIT Madras (Online)
+
+🔬 Passionate about:
+
+- Artificial Intelligence
+- Computer Vision
+- Embedded Systems
+- Secure Communication
+- Quantum Cryptography
+- VLSI Design
+
+I enjoy building complete systems that combine hardware, software, intelligence, and security into practical solutions.
 
 ---
 
-### 🎯 Long-Term Vision
-To design intelligent systems where  
-**hardware senses**, **data understands**, and **software decides**.
+## Research Interests
+
+- Machine Learning
+- Computer Vision
+- Edge AI
+- Quantum Key Distribution
+- IoT Security
+- Embedded Communication Systems
+- Digital Design & VLSI
+- Applied Cryptography
 
 ---
 
-### 🧭 Philosophy
-> *Build with purpose. Learn with intent.*
+## Publications & Intellectual Property
+
+### Research Publications
+
+📄 Twitter Sentiment Analysis on Obesity using Machine Learning Techniques *(IEEE Published)*
+
+### Patent Work
+
+📌 Agrobot: Intelligent Selective Pesticide Spraying System *(Patent Published)*
+
+📌 Smart Proximity-Based Protocol Switching Secure Communication System *(Patent Filing)*
 
 ---
 
-### 🤝 Connect With Me
-Let’s build meaningful systems, solve hard problems, or talk circuits & servers.
+## Featured Projects
 
-📫 `lalithkishore2109@gmail.com`  
-🔗 <a href="https://linkedin.com/in/lalithkishore37" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### Agrobot – Intelligent Selective Pesticide Spraying System
+
+**Computer Vision • Raspberry Pi • Embedded Control**
+
+- Detects plant diseases using AI models
+- Performs targeted pesticide spraying
+- Mobile robotic platform
+- Flask-based monitoring dashboard
+
+Focus:
+Computer Vision × Robotics × Precision Agriculture
+
+---
+
+### BB84-Based Secure MQTT Communication System
+
+**Quantum Cryptography • IoT Security**
+
+- Simulated BB84 quantum key exchange
+- Dynamic session key generation
+- Secure MQTT communication layer
+- Key entropy and security analysis
+
+Focus:
+Quantum Communication × Secure IoT
+
+---
+
+### Protocol Switching Secure Communication System
+
+**IoT • Security • Communication Networks**
+
+- Intelligent protocol switching
+- MQTT ↔ CoAP adaptive communication
+- Security-aware transmission
+- Context-driven network optimization
+
+Focus:
+IoT Networking × Cybersecurity
+
+---
+
+### Indian Sign Language Translator
+
+**Python • OpenCV • MediaPipe**
+
+- Real-time hand landmark tracking
+- Sign-to-text conversion
+- Text-to-speech generation
+- Accessibility-focused AI solution
+
+Focus:
+Computer Vision × Human-Centered AI
+
+---
+
+### Vaccine Stance Detection using BERTweet
+
+**NLP • Deep Learning**
+
+- Social media vaccine sentiment analysis
+- Semantic stance classification
+- Transformer-based modeling
+- Explainable predictions
+
+Focus:
+Natural Language Processing
+
+---
+
+### Skin Cancer Detection using Deep Learning
+
+**Medical AI • CNNs**
+
+- Dermoscopic image classification
+- Lesion analysis
+- Deep learning architectures
+- Healthcare-focused research
+
+Focus:
+Medical AI × Computer Vision
+
+---
+
+### Secure Morse Code Communication System
+
+**Embedded C • Cryptography • Flask**
+
+- RTC-based dynamic XOR encryption
+- Hardware-assisted key generation
+- Morse code transmission
+- UART communication framework
+
+Focus:
+Embedded Security × Cryptography
+
+---
+
+### Audio Encryption & Secure Transmission
+
+**DSP • Cryptography**
+
+- Audio signal encryption
+- Secure data transfer
+- Signal analysis and reconstruction
+
+Focus:
+Signal Processing × Security
+
+---
+
+### ESP-NOW Secure Covert Communication
+
+**ESP32 • Wireless Systems**
+
+- Low-latency device communication
+- Covert transmission concepts
+- Embedded networking
+
+Focus:
+Embedded Wireless Communication
+
+---
+
+### Vehicle Parking Management System
+
+**Flask • SQLite**
+
+- Multi-user parking management
+- Reservation system
+- Administrative dashboard
+- Database-driven architecture
+
+Focus:
+Backend Engineering
+
+---
+
+## Technical Skills
+
+### Programming
+
+```text
+Python
+C
+Embedded C
+SQL
+Verilog
+```
+
+### Artificial Intelligence
+
+```text
+Machine Learning
+Deep Learning
+Computer Vision
+Natural Language Processing
+TensorFlow
+PyTorch
+OpenCV
+```
+
+### Embedded Systems
+
+```text
+Arduino
+ESP32
+UART
+I2C
+SPI
+Raspberry Pi
+Sensor Integration
+```
+
+### Web & Backend
+
+```text
+Flask
+REST APIs
+SQLite
+HTML
+CSS
+React
+Tailwind CSS
+```
+
+### Security & Communication
+
+```text
+Cryptography
+Quantum Key Distribution
+MQTT
+CoAP
+ESP-NOW
+Secure Communication Protocols
+```
+
+### VLSI & Hardware
+
+```text
+Verilog
+Digital Logic Design
+Cadence Tools
+RTL Design
+Timing Analysis
+```
+
+---
+
+## Currently Building
+
+### Intelligent Selective Pesticide Spraying Robot
+
+- AI-assisted disease detection
+- Precision agriculture automation
+- Real-time decision making
+- Embedded actuation systems
+
+### Advanced Secure IoT Communication Models
+
+- Dynamic protocol adaptation
+- Quantum-inspired security
+- Intelligent communication frameworks
+
+---
+
+## Currently Learning
+
+```text
+STM32 Programming
+ARM Cortex-M Architecture
+IoT Protocol Design
+Digital Signal Processing
+Advanced Verilog
+Physical Design Concepts
+Embedded Linux
+System Architecture
+```
+
+---
+
+## Achievements
+
+🏆 WebSphere Hackathon Winner @ Code-Y-Gen
+
+🚀 Intel Gen-AI Hackathon Participant
+
+🎯 Smart India Hackathon (SIH) Project Development
+
+🌐 Open Source Programming Club Member
+
+💻 Code-Y-Gen Community Member
+
+---
+
+## Long-Term Vision
+
+To develop intelligent cyber-physical systems that combine:
+
+Hardware Sensing → Secure Communication → Intelligent Decision Making → Autonomous Action
+
+while contributing to research in AI, embedded systems, and secure communication technologies.
+
+---
+
+## Philosophy
+
+> Build with purpose.
+>
+> Learn with intent.
+>
+> Engineer solutions that matter.
+
+---
+
+## Connect
+
+📧 Email: lalithkishore2109@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/lalithkishore37
+
+🐙 GitHub:
+github.com/Lalithkishore365
