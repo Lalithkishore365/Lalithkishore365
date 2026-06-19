@@ -1,4 +1,3 @@
-````md
 <h1 align="center">Lalith Kishore</h1>
 
 <p align="center">
@@ -18,7 +17,7 @@ Building intelligent systems where hardware senses, data understands, and softwa
 📊 BS in Data Science and Applications @ IIT Madras  
 ✅ Diploma Level Completed
 
-🔬 Interested in designing intelligent systems at the intersection of:
+🔬 Interested in:
 
 - Artificial Intelligence
 - Computer Vision
@@ -27,21 +26,21 @@ Building intelligent systems where hardware senses, data understands, and softwa
 - Data Analytics
 - Quantum Cryptography
 
-I enjoy building end-to-end solutions that combine hardware, software, data, and intelligence to solve real-world problems.
+I enjoy building end-to-end systems that combine hardware, software, data, and intelligence to solve real-world problems.
 
 ---
 
 ## 📚 Publications & Intellectual Property
 
-### Research Publications
+### Research Publication
 
-📄 Twitter Sentiment Analysis on Obesity using Machine Learning Techniques *(IEEE Published)*
+📄 **Twitter Sentiment Analysis on Obesity using Machine Learning Techniques** *(IEEE Published)*
 
 ### Patent Work
 
-📌 Agrobot: Intelligent Selective Pesticide Spraying System *(Patent Published)*
+📌 **Agrobot: Intelligent Selective Pesticide Spraying System** *(Patent Published)*
 
-📌 Smart Proximity-Based Protocol Switching Secure Communication System *(Patent Filing)*
+📌 **Smart Proximity-Based Protocol Switching Secure Communication System** *(Patent Filing)*
 
 ---
 
@@ -61,12 +60,11 @@ I enjoy building end-to-end solutions that combine hardware, software, data, and
 ## 🎓 Education
 
 ### Vellore Institute of Technology (VIT), Chennai
-**Bachelor of Technology (B.Tech.)**  
-Electronics and Communication Engineering
+**B.Tech. Electronics and Communication Engineering**
 
 ### IIT Madras
-**BS Degree in Data Science and Applications**  
-Diploma Level Completed
+**BS in Data Science and Applications**  
+**Diploma Level Completed**
 
 ---
 
@@ -107,7 +105,7 @@ Diploma Level Completed
 - Text-to-speech generation
 - Accessibility-focused AI solution
 
-**Focus:** Computer Vision × Human-Centered AI
+**Focus:** Computer Vision × Accessibility
 
 ---
 
@@ -142,8 +140,8 @@ Diploma Level Completed
 **ESP32 • Wireless Systems**
 
 - Low-latency device communication
-- Covert transmission concepts
-- Embedded networking
+- Covert communication concepts
+- Embedded networking implementation
 
 **Focus:** Embedded Wireless Communication
 
@@ -162,14 +160,14 @@ Diploma Level Completed
 
 ---
 
-### 📊 Business Analytics Dashboard – Rajesh Tiles
+### 📊 Business Analytics Project – Rajesh Tiles
 
-**Python • Data Analytics • Visualization**
+**Python • Data Analytics • Business Intelligence**
 
-- Analyzed business sales and operational datasets
+- Analyzed sales and operational business data
 - Performed data cleaning and preprocessing
-- Built dashboards for business insights and reporting
-- Generated data-driven recommendations for decision-making
+- Created analytical dashboards and reports
+- Generated insights for business decision-making
 
 **Focus:** Business Intelligence × Data Analytics
 
@@ -179,89 +177,74 @@ Diploma Level Completed
 
 ### Programming Languages
 
-```text
-Python
-C
-Embedded C
-SQL
-Verilog
-````
+- Python
+- C
+- Embedded C
+- SQL
+- Verilog
 
 ### Artificial Intelligence & Data Science
 
-```text
-Machine Learning
-Deep Learning
-Computer Vision
-Natural Language Processing
-TensorFlow
-PyTorch
-OpenCV
-Pandas
-NumPy
-Matplotlib
-```
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- TensorFlow
+- PyTorch
+- OpenCV
+- Pandas
+- NumPy
+- Matplotlib
 
 ### Embedded Systems
 
-```text
-Arduino
-ESP32
-Raspberry Pi
-UART
-I2C
-SPI
-Sensor Integration
-Embedded Communication
-```
+- Arduino
+- ESP32
+- Raspberry Pi
+- UART
+- I2C
+- SPI
+- Sensor Integration
 
 ### Web & Backend Development
 
-```text
-Flask
-REST APIs
-SQLite
-HTML
-CSS
-React
-Tailwind CSS
-```
+- Flask
+- REST APIs
+- SQLite
+- HTML
+- CSS
+- React
+- Tailwind CSS
 
 ### Security & Communication
 
-```text
-Cryptography
-Quantum Key Distribution
-MQTT
-CoAP
-ESP-NOW
-Secure Communication Protocols
-```
+- Cryptography
+- Quantum Key Distribution
+- MQTT
+- CoAP
+- ESP-NOW
+- Secure Communication Protocols
 
 ### VLSI & Hardware Design
 
-```text
-Verilog
-Digital Logic Design
-Cadence Tools
-RTL Design
-Timing Analysis
-```
+- Verilog
+- Digital Logic Design
+- Cadence Tools
+- RTL Design
+- Timing Analysis
 
 ---
 
 ## 📖 Currently Learning
 
-```text
-STM32 Programming
-ARM Cortex-M Architecture
-IoT Protocol Design
-Digital Signal Processing
-Advanced Verilog
-Physical Design Concepts
-Embedded Linux
-System Architecture
-```
+- STM32 Programming
+- ARM Cortex-M Architecture
+- IoT Protocol Design
+- Digital Signal Processing
+- Advanced Verilog
+- Physical Design Concepts
+- Embedded Linux
+- System Architecture
 
 ---
 
@@ -301,14 +284,11 @@ with applications in healthcare, agriculture, security, and industrial automatio
 
 ## 🤝 Connect With Me
 
-📧 **Email:**
-[lalithkishore2109@gmail.com](mailto:lalithkishore2109@gmail.com)
+📧 **Email:**  
+lalithkishore2109@gmail.com
 
-💼 **LinkedIn:**
-[www.linkedin.com/in/lalithkishore37](http://www.linkedin.com/in/lalithkishore37)
+💼 **LinkedIn:**  
+https://linkedin.com/in/lalithkishore37
 
-🐙 **GitHub:**
-github.com/Lalithkishore365
-
-```
-```
+🐙 **GitHub:**  
+https://github.com/Lalithkishore365
