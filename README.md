@@ -185,6 +185,51 @@ with applications in healthcare, agriculture, security, and industrial automatio
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lalithkishore365&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithkishore365&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalithkishore365&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lalithkishore365&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalithkishore365&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lalithkishore365/Lalithkishore365/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+
+</div>
+
+> 💡 *The snake animation requires a one-time GitHub Actions setup — instructions are in the note below.*
+
+---
+
 <div align="center">
 
 ### 🤝 Connect With Me
@@ -192,3 +237,49 @@ with applications in healthcare, agriculture, security, and industrial automatio
 📧 [lalithkishore2109@gmail.com](mailto:lalithkishore2109@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/lalithkishore37) · 🐙 [GitHub](https://github.com/Lalithkishore365)
 
 </div>
+
+---
+
+<details>
+<summary>⚙️ Setup note: enabling the contribution snake (click to expand)</summary>
+
+<br>
+
+The snake animation needs a small one-time setup since it generates an SVG from your contribution graph via GitHub Actions:
+
+1. In this repo, go to **Actions → New workflow → set up a workflow yourself**
+2. Paste the workflow below and commit it as `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Lalithkishore365
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Run the workflow once manually (Actions tab → Run workflow). It creates an `output` branch with the SVG, which the README image link above already points to.
+
+If you'd rather skip this, just remove the **🐍 Contribution Snake** section from the README.
+
+</details>
